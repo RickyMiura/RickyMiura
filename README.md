@@ -1,6 +1,6 @@
 ## Hi and welcome! 👋
 
-I'm Ricky, a passionate student and machine learning engineer. Here's a little about me:
+I'm **Ricky**, a passionate student and machine learning engineer. Here's a little about me:
 
 - 🎓 **Education**:  
   - Bachelor’s degree in Data Science and Business Economics from UC San Diego.  
