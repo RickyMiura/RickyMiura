@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi and Welcome! 👋
 
-<!--
-**RickyMiura/RickyMiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ricky, a passionate student and machine learning engineer. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🎓 **Education**:  
+  - Bachelor’s degree in Data Science and Business Economics from UC San Diego.  
+  - Currently pursuing a Master’s degree in Data Science at the University of San Francisco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💼 **Professional Experience**:  
+  - Working as a Machine Learning Engineer at ArangoDB, exploring exciting opportunities in graph databases and LLMs.
+
+- 🖥️ **Explore My Work**:  
+  - Check out my [personal website](https://rickymiura.netlify.app/) to see what I’ve been working on.
+
+- 💬 **Let’s Connect**:  
+  - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rickymiura/).
+
+Take a look at my projects, including my [undergraduate capstone project](https://github.com/RickyMiura/Traffic-Speed-Forecasting) and much more!
