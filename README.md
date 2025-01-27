@@ -9,7 +9,7 @@ I'm Ricky, a passionate student and machine learning engineer. Here's a little a
 - 👨🏻‍💼 **Professional Experience**:  
   - Working as a Machine Learning Engineer at ArangoDB, exploring exciting opportunities in graph databases and LLMs.
 
-- 🖥️ **Explore My Work**:  
+- 🔍 **Explore My Work**:  
   - Check out my [personal website](https://rickymiura.netlify.app/) to see what I’ve been working on.
 
 - 💬 **Let’s Connect**:  
