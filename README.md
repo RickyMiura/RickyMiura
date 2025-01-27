@@ -1,4 +1,4 @@
-## Hi and Welcome! 👋
+## Hi and welcome! 👋
 
 I'm Ricky, a passionate student and machine learning engineer. Here's a little about me:
 
